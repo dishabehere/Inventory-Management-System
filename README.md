@@ -16,9 +16,9 @@ Detailed Item Records: Each inventory item can contain detailed information such
 # Getting Started
 To get started with the Inventory Management System, please follow the instructions below:
 1. Clone the Repository: Clone this repository to your local machine to get started with the Inventory Management System.
-   git clone https://github.com/dishabehere/Inventory-Management-System.git
-2. Installation: Navigate to the project directory and follow the installation instructions provided in the README.md file to set up the system on your machine.
-3. Launch the Application: Follow the instructions in the README.md file to start the application and begin managing your inventory.
+git clone https://github.com/dishabehere/Inventory-Management-System.git
+3. Installation: Navigate to the project directory and follow the installation instructions provided in the README.md file to set up the system on your machine.
+4. Launch the Application: Follow the instructions in the README.md file to start the application and begin managing your inventory.
 
 # About the Application
 I have used tkinter in order to make the GUI interface of the application which will help the user to navigate between the functions of the applications. I have also used pillow module to implement images in the GUI. The main database which is used to store details of spending is used by the sqlite3 which is very good for beginners to use the database who do not have any idea about the Oracle or any other database which uses sql. As soon as the application is launched the user will we able to see the five-options named (Employee, Supplier, Category, Product and Sales).
@@ -53,5 +53,6 @@ This Inventory Management System is open-source and released under the MIT Licen
 # Acknowledgments
 A heartfelt thank you to all the contributors who have helped to enhance and maintain this system.
 Gratitude to the open-source community for the tools and libraries that have made this project possible.
+
 
 ## Dive into efficient inventory management with this robust system, designed to meet the dynamic needs of modern businesses and organizations.
